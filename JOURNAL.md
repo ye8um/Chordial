@@ -37,4 +37,4 @@ EC11 rotary encoder
  2 momentary push buttons
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/rsJwrjl25kbCfZE7Dltry86oScYzcoZw/33044b92b121dfd68399054f50f687416b1ead370d97811ef48f280a9535f27c.png)
-Then set up github repository.
+Then set up github repository. Then made the Kicad File. Ready to work tomorrow.
