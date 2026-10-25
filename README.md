@@ -82,10 +82,6 @@ The firmware was then developed to control the chord selection, display, and sou
 
 The next part of the project is assembling the electronics, testing the firmware on the physical hardware, and making any adjustments needed.
 
-## Final Thoughts
+## Bill of Materials
 
-Chordial started as a simple idea for an instrument that could play chords with just one button. As I worked on it, I realized how many different parts go into making even a small electronic device.
-
-From designing the PCB to figuring out the enclosure dimensions and writing the firmware, each part of the project taught me something different.
-
-I'm hoping Chordial will become a fun little desk instrument that makes it easy to experiment with music, while also showing what I've learned about electronics and product design.
+[BOM](BOM.csv)
