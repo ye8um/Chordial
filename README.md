@@ -1,5 +1,7 @@
 # Chordial 🎹
 
+<img width="922" height="681" alt="image" src="https://github.com/user-attachments/assets/80785711-6648-4469-a66b-a1f20748173c" />
+
 ## What is Chordial?
 
 Chordial is a small, portable electronic instrument that lets you play musical chords with just a turn and a press of a knob. I wanted to create something that makes playing chords simple and fun, even for someone who doesn't know much about music theory.
@@ -44,6 +46,8 @@ Chordial is powered by a rechargeable 3.7 V LiPo battery. It also includes a sli
 
 All the electronics are designed to fit onto a custom PCB that I made in KiCad.
 
+<img width="800" height="607" alt="image" src="https://github.com/user-attachments/assets/9fd199c2-669c-44f2-ba8c-04ff06795296" />
+
 ## Enclosure Design
 
 I designed the enclosure in Fusion 360 with the goal of making Chordial compact, comfortable, and easy to use.
@@ -54,9 +58,13 @@ The enclosure consists of separate top and bottom pieces that are secured using 
 
 I also plan to use a custom 3D printed rotary knob so the instrument feels more comfortable to control.
 
+<img width="912" height="675" alt="image" src="https://github.com/user-attachments/assets/d4beab42-376d-4989-b062-895f64257b9c" />
+
 ## Software
 
 The firmware is written in Arduino C++ for the XIAO ESP32 S3.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/be2475cf-e64c-4a04-8f00-ba6549da9521" />
 
 It reads the rotary encoder to determine which chord is selected, updates the OLED display, and generates the audio signals needed to play each chord.
 
